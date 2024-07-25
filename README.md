@@ -1,16 +1,20 @@
 <h1 align="center"> Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Sarah Mota!</h1>
 
 <div>
-  <a href="https://beacons.ai/SarahMota">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=SarahMota&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=omni"/>
-     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahMota&layout=compact&cache_seconds=86400&theme=omni"/>
+  <a href="https://beacons.ai/sarahmotawine">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=sarahmotawine&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula"/>
+     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmotawine&layout=compact&cache_seconds=86400&theme=dracula"/>
     <img align="right" alt="Sarah-yoda" src="https://i.pinimg.com/originals/73/c6/3a/73c63a1f41f1d3c42030d04344296c17.png" height="150">
     
   </a>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sarah-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Sarah-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Sarah-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Sarah-Grafana" height="40" width="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
+  <img align="center" alt="Sarah-AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> 
+  <img align="center" alt="Sarah-AWS" height="40" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"> 
 <div>
 
 ##
