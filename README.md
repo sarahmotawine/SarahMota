@@ -3,7 +3,7 @@
 <div>
   <a href="https://beacons.ai/sarahmotawine">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=sarahmotawine&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula"/>
-     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmotawine&layout=compact&cache_seconds=86400&theme=dracula"/>
+     <img height="232" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmotawine&layout=compact&cache_seconds=86400&theme=dracula"/>
     <img align="right" alt="Sarah-yoda" src="https://i.pinimg.com/originals/73/c6/3a/73c63a1f41f1d3c42030d04344296c17.png" height="150">
     
   </a>
