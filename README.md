@@ -1,10 +1,11 @@
 <h1 align="center"> Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Sarah Mota!</h1>
 
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarahmotawine&theme=dracula)
+
 <div>
   <a href="https://beacons.ai/sarahmotawine">
-    <img height="145" src="https://github-readme-stats.vercel.app/api?username=sarahmotawine&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula"/>
-     <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmotawine&layout=compact&cache_seconds=86400&theme=dracula"/>
-    <img align="right" alt="Sarah-yoda" src="https://i.pinimg.com/originals/73/c6/3a/73c63a1f41f1d3c42030d04344296c17.png" height="150">
+     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmotawine&layout=compact&cache_seconds=86400&theme=dracula"/>
+    <img align="right" alt="Sarah-yoda" src="https://i.pinimg.com/originals/73/c6/3a/73c63a1f41f1d3c42030d04344296c17.png" height="190">
     
   </a>
 </div>
@@ -25,3 +26,5 @@
   <a href="https://www.linkedin.com/in/sarah-mota-a43238234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a 
 </div>
+
+
